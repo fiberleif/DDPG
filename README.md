@@ -1,1 +1,1 @@
-Tensorflow Implementation of Continuous control with deep reinforcement learning (DDPG): https://arxiv.org/abs/1509.02971
+Distributed Tensorflow Implementation of Continuous control with deep reinforcement learning (DDPG): https://arxiv.org/abs/1509.02971, which is based on OpenAI Baseline implementation: https://github.com/openai/baselines/tree/master/baselines/ddpg.
