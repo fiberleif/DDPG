@@ -1,0 +1,2 @@
+reference_action_mean,epoch/reward_sum,reference_actor_Q_std,total/time,obs_rms_std,total/steps,eval/mean_forward,train/actor_loss,epoch/time,obs_rms_mean,train/critic_loss,reference_Q_std,eval/reward_sum,total/episode,epoch/episode,epoch/steps,reference_action_std,total/epochs
+1.6715307235717773,-315.66481937189974,36.1754207611084,113.6708152294159,96.0391616821289,768,-0.6282775584186012,15.942601219007878,112.7295229434967,12.193419933319092,18.146913400718145,35.817803382873535,584.2468156999014,8,8,50.0,2.0953428745269775,1

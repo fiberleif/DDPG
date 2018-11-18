@@ -1,0 +1,2 @@
+Logging to /mnt/c/Users/v-liguoq/Desktop/DRL/projects/nips2018_challenge/codebase/guoqing/nipsrun2019-ensemble/ddpg-nips/log/DDPG-Ensemble-2018-10-30-21-18-50-0
+Command Line: ['main.py']

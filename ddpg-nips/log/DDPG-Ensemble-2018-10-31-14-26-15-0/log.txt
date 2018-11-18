@@ -1,0 +1,189 @@
+Logging to C:\Users\v-liguoq\Desktop\DRL\projects\nips2018_challenge\codebase\guoqing\nipsrun2019-ensemble\ddpg-nips\log\DDPG-Ensemble-2018-10-31-14-26-15-0
+Command Line: ['main.py', '--nb-epoch-cycles', '1']
+setting up actor optimizer
+  actor shapes: [[214, 64], [64], [64], [64], [64, 64], [64], [64], [64], [64, 19], [19]]
+  actor params: 19411
+setting up critic optimizer
+  regularizing: critic_0th/dense/kernel:0
+  regularizing: critic_0th/dense_1/kernel:0
+  regularizing: critic_0th/dense_2/kernel:0
+  applying l2 regularization with 0.01
+  critic shapes: [[233, 64], [64], [64], [64], [83, 64], [64], [64], [64], [64, 1], [1]]
+  critic params: 20673
+setting up target updates ...
+  target_actor_0th/dense/kernel:0 <- actor_0th/dense/kernel:0
+  target_actor_0th/dense/bias:0 <- actor_0th/dense/bias:0
+  target_actor_0th/LayerNorm/beta:0 <- actor_0th/LayerNorm/beta:0
+  target_actor_0th/LayerNorm/gamma:0 <- actor_0th/LayerNorm/gamma:0
+  target_actor_0th/dense_1/kernel:0 <- actor_0th/dense_1/kernel:0
+  target_actor_0th/dense_1/bias:0 <- actor_0th/dense_1/bias:0
+  target_actor_0th/LayerNorm_1/beta:0 <- actor_0th/LayerNorm_1/beta:0
+  target_actor_0th/LayerNorm_1/gamma:0 <- actor_0th/LayerNorm_1/gamma:0
+  target_actor_0th/dense_2/kernel:0 <- actor_0th/dense_2/kernel:0
+  target_actor_0th/dense_2/bias:0 <- actor_0th/dense_2/bias:0
+setting up target updates ...
+  target_critic_0th/dense/kernel:0 <- critic_0th/dense/kernel:0
+  target_critic_0th/dense/bias:0 <- critic_0th/dense/bias:0
+  target_critic_0th/LayerNorm/beta:0 <- critic_0th/LayerNorm/beta:0
+  target_critic_0th/LayerNorm/gamma:0 <- critic_0th/LayerNorm/gamma:0
+  target_critic_0th/dense_1/kernel:0 <- critic_0th/dense_1/kernel:0
+  target_critic_0th/dense_1/bias:0 <- critic_0th/dense_1/bias:0
+  target_critic_0th/LayerNorm_1/beta:0 <- critic_0th/LayerNorm_1/beta:0
+  target_critic_0th/LayerNorm_1/gamma:0 <- critic_0th/LayerNorm_1/gamma:0
+  target_critic_0th/dense_2/kernel:0 <- critic_0th/dense_2/kernel:0
+  target_critic_0th/dense_2/bias:0 <- critic_0th/dense_2/bias:0
+setting up actor optimizer
+  actor shapes: [[214, 64], [64], [64], [64], [64, 64], [64], [64], [64], [64, 19], [19]]
+  actor params: 19411
+setting up critic optimizer
+  regularizing: critic_1th/dense/kernel:0
+  regularizing: critic_1th/dense_1/kernel:0
+  regularizing: critic_1th/dense_2/kernel:0
+  applying l2 regularization with 0.01
+  critic shapes: [[233, 64], [64], [64], [64], [83, 64], [64], [64], [64], [64, 1], [1]]
+  critic params: 20673
+setting up target updates ...
+  target_actor_1th/dense/kernel:0 <- actor_1th/dense/kernel:0
+  target_actor_1th/dense/bias:0 <- actor_1th/dense/bias:0
+  target_actor_1th/LayerNorm/beta:0 <- actor_1th/LayerNorm/beta:0
+  target_actor_1th/LayerNorm/gamma:0 <- actor_1th/LayerNorm/gamma:0
+  target_actor_1th/dense_1/kernel:0 <- actor_1th/dense_1/kernel:0
+  target_actor_1th/dense_1/bias:0 <- actor_1th/dense_1/bias:0
+  target_actor_1th/LayerNorm_1/beta:0 <- actor_1th/LayerNorm_1/beta:0
+  target_actor_1th/LayerNorm_1/gamma:0 <- actor_1th/LayerNorm_1/gamma:0
+  target_actor_1th/dense_2/kernel:0 <- actor_1th/dense_2/kernel:0
+  target_actor_1th/dense_2/bias:0 <- actor_1th/dense_2/bias:0
+setting up target updates ...
+  target_critic_1th/dense/kernel:0 <- critic_1th/dense/kernel:0
+  target_critic_1th/dense/bias:0 <- critic_1th/dense/bias:0
+  target_critic_1th/LayerNorm/beta:0 <- critic_1th/LayerNorm/beta:0
+  target_critic_1th/LayerNorm/gamma:0 <- critic_1th/LayerNorm/gamma:0
+  target_critic_1th/dense_1/kernel:0 <- critic_1th/dense_1/kernel:0
+  target_critic_1th/dense_1/bias:0 <- critic_1th/dense_1/bias:0
+  target_critic_1th/LayerNorm_1/beta:0 <- critic_1th/LayerNorm_1/beta:0
+  target_critic_1th/LayerNorm_1/gamma:0 <- critic_1th/LayerNorm_1/gamma:0
+  target_critic_1th/dense_2/kernel:0 <- critic_1th/dense_2/kernel:0
+  target_critic_1th/dense_2/bias:0 <- critic_1th/dense_2/bias:0
+setting up actor optimizer
+  actor shapes: [[214, 64], [64], [64], [64], [64, 64], [64], [64], [64], [64, 19], [19]]
+  actor params: 19411
+setting up critic optimizer
+  regularizing: critic_2th/dense/kernel:0
+  regularizing: critic_2th/dense_1/kernel:0
+  regularizing: critic_2th/dense_2/kernel:0
+  applying l2 regularization with 0.01
+  critic shapes: [[233, 64], [64], [64], [64], [83, 64], [64], [64], [64], [64, 1], [1]]
+  critic params: 20673
+setting up target updates ...
+  target_actor_2th/dense/kernel:0 <- actor_2th/dense/kernel:0
+  target_actor_2th/dense/bias:0 <- actor_2th/dense/bias:0
+  target_actor_2th/LayerNorm/beta:0 <- actor_2th/LayerNorm/beta:0
+  target_actor_2th/LayerNorm/gamma:0 <- actor_2th/LayerNorm/gamma:0
+  target_actor_2th/dense_1/kernel:0 <- actor_2th/dense_1/kernel:0
+  target_actor_2th/dense_1/bias:0 <- actor_2th/dense_1/bias:0
+  target_actor_2th/LayerNorm_1/beta:0 <- actor_2th/LayerNorm_1/beta:0
+  target_actor_2th/LayerNorm_1/gamma:0 <- actor_2th/LayerNorm_1/gamma:0
+  target_actor_2th/dense_2/kernel:0 <- actor_2th/dense_2/kernel:0
+  target_actor_2th/dense_2/bias:0 <- actor_2th/dense_2/bias:0
+setting up target updates ...
+  target_critic_2th/dense/kernel:0 <- critic_2th/dense/kernel:0
+  target_critic_2th/dense/bias:0 <- critic_2th/dense/bias:0
+  target_critic_2th/LayerNorm/beta:0 <- critic_2th/LayerNorm/beta:0
+  target_critic_2th/LayerNorm/gamma:0 <- critic_2th/LayerNorm/gamma:0
+  target_critic_2th/dense_1/kernel:0 <- critic_2th/dense_1/kernel:0
+  target_critic_2th/dense_1/bias:0 <- critic_2th/dense_1/bias:0
+  target_critic_2th/LayerNorm_1/beta:0 <- critic_2th/LayerNorm_1/beta:0
+  target_critic_2th/LayerNorm_1/gamma:0 <- critic_2th/LayerNorm_1/gamma:0
+  target_critic_2th/dense_2/kernel:0 <- critic_2th/dense_2/kernel:0
+  target_critic_2th/dense_2/bias:0 <- critic_2th/dense_2/bias:0
+setting up actor optimizer
+  actor shapes: [[214, 64], [64], [64], [64], [64, 64], [64], [64], [64], [64, 19], [19]]
+  actor params: 19411
+setting up critic optimizer
+  regularizing: critic_3th/dense/kernel:0
+  regularizing: critic_3th/dense_1/kernel:0
+  regularizing: critic_3th/dense_2/kernel:0
+  applying l2 regularization with 0.01
+  critic shapes: [[233, 64], [64], [64], [64], [83, 64], [64], [64], [64], [64, 1], [1]]
+  critic params: 20673
+setting up target updates ...
+  target_actor_3th/dense/kernel:0 <- actor_3th/dense/kernel:0
+  target_actor_3th/dense/bias:0 <- actor_3th/dense/bias:0
+  target_actor_3th/LayerNorm/beta:0 <- actor_3th/LayerNorm/beta:0
+  target_actor_3th/LayerNorm/gamma:0 <- actor_3th/LayerNorm/gamma:0
+  target_actor_3th/dense_1/kernel:0 <- actor_3th/dense_1/kernel:0
+  target_actor_3th/dense_1/bias:0 <- actor_3th/dense_1/bias:0
+  target_actor_3th/LayerNorm_1/beta:0 <- actor_3th/LayerNorm_1/beta:0
+  target_actor_3th/LayerNorm_1/gamma:0 <- actor_3th/LayerNorm_1/gamma:0
+  target_actor_3th/dense_2/kernel:0 <- actor_3th/dense_2/kernel:0
+  target_actor_3th/dense_2/bias:0 <- actor_3th/dense_2/bias:0
+setting up target updates ...
+  target_critic_3th/dense/kernel:0 <- critic_3th/dense/kernel:0
+  target_critic_3th/dense/bias:0 <- critic_3th/dense/bias:0
+  target_critic_3th/LayerNorm/beta:0 <- critic_3th/LayerNorm/beta:0
+  target_critic_3th/LayerNorm/gamma:0 <- critic_3th/LayerNorm/gamma:0
+  target_critic_3th/dense_1/kernel:0 <- critic_3th/dense_1/kernel:0
+  target_critic_3th/dense_1/bias:0 <- critic_3th/dense_1/bias:0
+  target_critic_3th/LayerNorm_1/beta:0 <- critic_3th/LayerNorm_1/beta:0
+  target_critic_3th/LayerNorm_1/gamma:0 <- critic_3th/LayerNorm_1/gamma:0
+  target_critic_3th/dense_2/kernel:0 <- critic_3th/dense_2/kernel:0
+  target_critic_3th/dense_2/bias:0 <- critic_3th/dense_2/bias:0
+setting up actor optimizer
+  actor shapes: [[214, 64], [64], [64], [64], [64, 64], [64], [64], [64], [64, 19], [19]]
+  actor params: 19411
+setting up critic optimizer
+  regularizing: critic_4th/dense/kernel:0
+  regularizing: critic_4th/dense_1/kernel:0
+  regularizing: critic_4th/dense_2/kernel:0
+  applying l2 regularization with 0.01
+  critic shapes: [[233, 64], [64], [64], [64], [83, 64], [64], [64], [64], [64, 1], [1]]
+  critic params: 20673
+setting up target updates ...
+  target_actor_4th/dense/kernel:0 <- actor_4th/dense/kernel:0
+  target_actor_4th/dense/bias:0 <- actor_4th/dense/bias:0
+  target_actor_4th/LayerNorm/beta:0 <- actor_4th/LayerNorm/beta:0
+  target_actor_4th/LayerNorm/gamma:0 <- actor_4th/LayerNorm/gamma:0
+  target_actor_4th/dense_1/kernel:0 <- actor_4th/dense_1/kernel:0
+  target_actor_4th/dense_1/bias:0 <- actor_4th/dense_1/bias:0
+  target_actor_4th/LayerNorm_1/beta:0 <- actor_4th/LayerNorm_1/beta:0
+  target_actor_4th/LayerNorm_1/gamma:0 <- actor_4th/LayerNorm_1/gamma:0
+  target_actor_4th/dense_2/kernel:0 <- actor_4th/dense_2/kernel:0
+  target_actor_4th/dense_2/bias:0 <- actor_4th/dense_2/bias:0
+setting up target updates ...
+  target_critic_4th/dense/kernel:0 <- critic_4th/dense/kernel:0
+  target_critic_4th/dense/bias:0 <- critic_4th/dense/bias:0
+  target_critic_4th/LayerNorm/beta:0 <- critic_4th/LayerNorm/beta:0
+  target_critic_4th/LayerNorm/gamma:0 <- critic_4th/LayerNorm/gamma:0
+  target_critic_4th/dense_1/kernel:0 <- critic_4th/dense_1/kernel:0
+  target_critic_4th/dense_1/bias:0 <- critic_4th/dense_1/bias:0
+  target_critic_4th/LayerNorm_1/beta:0 <- critic_4th/LayerNorm_1/beta:0
+  target_critic_4th/LayerNorm_1/gamma:0 <- critic_4th/LayerNorm_1/gamma:0
+  target_critic_4th/dense_2/kernel:0 <- critic_4th/dense_2/kernel:0
+  target_critic_4th/dense_2/bias:0 <- critic_4th/dense_2/bias:0
+evaluation time: 65.51592946052551
+Forward distance: [-0.6282829559492428, -0.6282750701911816, -0.6282787138349241, -0.6282759840398784, -0.628275068077779, -0.6282829559492428, -0.6282750701911816, -0.6282787138349241, -0.6282759840398784, -0.628275068077779]
+Eval results: [584.2456490634069, 584.2466121948639, 584.2431530420565, 584.2448649832476, 584.2384199390954, 584.2426329416589, 584.2409733032597, 584.2520841868611, 584.2424071636044, 584.2437801246222, 584.2452434628219, 584.2506228625356, 584.2497723661797, 584.2507917547808, 584.2444451123115, 584.2447319438702, 584.2502300553809, 584.2494417681371, 584.2540544370289, 584.2496680367742, 584.2419353747182, 584.2503047050299, 584.2483494875867, 584.2498151506462, 584.2504090370526]
+------------------------------------
+| epoch/episode         | 8        |
+| epoch/reward_sum      | -316     |
+| epoch/steps           | 50       |
+| epoch/time            | 113      |
+| eval/mean_forward     | -0.628   |
+| eval/reward_sum       | 584      |
+| obs_rms_mean          | 12.2     |
+| obs_rms_std           | 96       |
+| reference_Q_std       | 35.8     |
+| reference_action_mean | 1.67     |
+| reference_action_std  | 2.1      |
+| reference_actor_Q_std | 36.2     |
+| total/episode         | 8        |
+| total/epochs          | 1        |
+| total/steps           | 768      |
+| total/time            | 114      |
+| train/actor_loss      | 15.9     |
+| train/critic_loss     | 18.1     |
+------------------------------------
+
+Send graph to server.
+Send graph to server.
+Send graph to server.

@@ -1,0 +1,4 @@
+model_checkpoint_path: "C:\\Users\\v-liguoq\\Desktop\\DRL\\projects\\nips2018_challenge\\codebase\\guoqing\\nipsrun2019-ensemble\\ddpg-nips\\log\\DDPG-Ensemble-2018-10-31-14-32-43-0\\model-best-4"
+all_model_checkpoint_paths: "C:\\Users\\v-liguoq\\Desktop\\DRL\\projects\\nips2018_challenge\\codebase\\guoqing\\nipsrun2019-ensemble\\ddpg-nips\\log\\DDPG-Ensemble-2018-10-31-14-32-43-0\\model-best-1"
+all_model_checkpoint_paths: "C:\\Users\\v-liguoq\\Desktop\\DRL\\projects\\nips2018_challenge\\codebase\\guoqing\\nipsrun2019-ensemble\\ddpg-nips\\log\\DDPG-Ensemble-2018-10-31-14-32-43-0\\model-best-2"
+all_model_checkpoint_paths: "C:\\Users\\v-liguoq\\Desktop\\DRL\\projects\\nips2018_challenge\\codebase\\guoqing\\nipsrun2019-ensemble\\ddpg-nips\\log\\DDPG-Ensemble-2018-10-31-14-32-43-0\\model-best-4"
